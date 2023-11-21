@@ -12,14 +12,12 @@ ol {
 a {
   text-decoration: none;
 }
-.section-one .title-one {
+.title-one {
   color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
   letter-spacing: 0.02em;
 }
 .title-two {
