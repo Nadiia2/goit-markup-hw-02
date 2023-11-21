@@ -12,7 +12,7 @@ ol {
 a {
   text-decoration: none;
 }
-.title-1 {
+.section-one .title-one {
   color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
@@ -20,31 +20,34 @@ a {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
 }
-.title-2 {
+.title-two {
   color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
-.title-3 {
+.title-three {
   color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
 }
 
-.section-1 {
+.section-one {
   background-color: #2e2f42;
 }
-.section-3 {
+.section-three {
   background-color: #f4f4fd;
 }
-.setion-3-list {
+.section-three-list {
   background-color: #ffffff;
 }
 .navigation {
@@ -68,11 +71,13 @@ a {
 nav .logo-studio {
   color: #2e2f42;
 }
-footer .logo-studio {
+.footer .logo-studio {
   color: #f4f4fd;
 }
 .contacts {
   font-style: normal;
+}
+.contacts-link {
   color: #434455;
 }
 .contacts-link:hover,
@@ -92,7 +97,7 @@ footer .logo-studio {
 .button:focus {
   background-color: #404bbf;
 }
-footer {
+.footer {
   color: #f4f4fd;
   background-color: #2e2f42;
 }
